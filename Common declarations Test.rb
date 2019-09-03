@@ -22,3 +22,5 @@ resource 'ubuntu_server', type: 'server' do
       'UPGRADES_FILE_LOCATION' => 'text:https://rightlink.rightscale.com/rightlink/upgrades',
     } end
   end
+
+#mod1
